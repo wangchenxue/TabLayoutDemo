@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tablayoutdemo</string>
+
+    <string name="manager_our_account">内部账号管理</string>
+    <string name="manager_class">培训班管理</string>
+    <string name="manager_student">学员管理</string>
+
+
+</resources>
